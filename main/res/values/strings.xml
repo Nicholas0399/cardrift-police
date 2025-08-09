@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cardrift Police</string>
+    <string name="play">Играть</string>
+    <string name="shop">Магазин</string>
+    <string name="settings">Настройки</string>
+    <string name="exit">Выход</string>
+</resources>
